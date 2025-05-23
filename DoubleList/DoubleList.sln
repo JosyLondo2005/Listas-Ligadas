@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleList", "DoubleList.csproj", "{3318BAD2-A161-4427-9434-26AEF74DDD26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleList.UI.Console", "..\DoubleList.UI.Console\DoubleList.UI.Console.csproj", "{672E3ABB-D5F3-46A8-85B4-0EC8461BD52A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3318BAD2-A161-4427-9434-26AEF74DDD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3318BAD2-A161-4427-9434-26AEF74DDD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3318BAD2-A161-4427-9434-26AEF74DDD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3318BAD2-A161-4427-9434-26AEF74DDD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672E3ABB-D5F3-46A8-85B4-0EC8461BD52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672E3ABB-D5F3-46A8-85B4-0EC8461BD52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672E3ABB-D5F3-46A8-85B4-0EC8461BD52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672E3ABB-D5F3-46A8-85B4-0EC8461BD52A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6827BA3-20C7-4660-BE1C-4CF81A55DEBA}
+	EndGlobalSection
+EndGlobal
