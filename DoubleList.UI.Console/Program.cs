@@ -1,4 +1,8 @@
 ﻿using DoubleList;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 public class Program
 {
@@ -39,7 +43,7 @@ public class Program
                         list.ShowBackward();
                         break;
                     case 4:
-                        list.SortDescending();
+                        list.SortDescending(); 
                         Console.WriteLine("List sorted in descending order.");
                         break;
                     case 5:

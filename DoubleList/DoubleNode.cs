@@ -15,3 +15,4 @@ public class DoubleNode<T>
     public DoubleNode<T>? Next { get; set; }
 }
 
+

@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace DoubleList;
 
@@ -294,4 +293,3 @@ public class DoubleLinkedList<T> where T : IComparable<T>
             : $"{value} was not found.");
     }
 }
-
